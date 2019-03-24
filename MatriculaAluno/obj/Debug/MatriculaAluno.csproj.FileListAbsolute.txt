@@ -1,0 +1,9 @@
+c:\users\kássia\documents\visual studio 2015\Projects\MatriculaAluno\MatriculaAluno\bin\Debug\MatriculaAluno.exe.config
+C:\Users\Kássia\Documents\Visual Studio 2015\Projects\MatriculaAluno\MatriculaAluno\bin\Debug\MatriculaAluno.exe
+C:\Users\Kássia\Documents\Visual Studio 2015\Projects\MatriculaAluno\MatriculaAluno\bin\Debug\MatriculaAluno.pdb
+C:\Users\Kássia\Documents\Visual Studio 2015\Projects\MatriculaAluno\MatriculaAluno\obj\Debug\MatriculaAluno.csprojResolveAssemblyReference.cache
+C:\Users\Kássia\Documents\Visual Studio 2015\Projects\MatriculaAluno\MatriculaAluno\obj\Debug\MatriculaAluno.FormEscolaNatacao.resources
+C:\Users\Kássia\Documents\Visual Studio 2015\Projects\MatriculaAluno\MatriculaAluno\obj\Debug\MatriculaAluno.Properties.Resources.resources
+C:\Users\Kássia\Documents\Visual Studio 2015\Projects\MatriculaAluno\MatriculaAluno\obj\Debug\MatriculaAluno.csproj.GenerateResource.Cache
+C:\Users\Kássia\Documents\Visual Studio 2015\Projects\MatriculaAluno\MatriculaAluno\obj\Debug\MatriculaAluno.exe
+C:\Users\Kássia\Documents\Visual Studio 2015\Projects\MatriculaAluno\MatriculaAluno\obj\Debug\MatriculaAluno.pdb
